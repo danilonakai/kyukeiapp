@@ -1,0 +1,62 @@
+[
+	{
+		"month_number":1,
+		"month":"January",
+		"days": []
+	},
+	{
+		"month_number":2,
+		"month":"February",
+		"days": []
+	},
+	{
+		"month_number":3,
+		"month":"March",
+		"days": []
+	},
+	{
+		"month_number":4,
+		"month":"April",
+		"days": []
+	},
+	{
+		"month_number":5,
+		"month":"May",
+		"days": []
+	},
+	{
+		"month_number":6,
+		"month":"June",
+		"days": []
+	},
+	{
+		"month_number":7,
+		"month":"July",
+		"days": []
+	},
+	{
+		"month_number":8,
+		"month":"August",
+		"days": []
+	},
+	{
+		"month_number":9,
+		"month":"September",
+		"days": []
+	},
+	{
+		"month_number":10,
+		"month":"October",
+		"days": []
+	},
+	{
+		"month_number":11,
+		"month":"November",
+		"days": []
+	},
+	{
+		"month_number":12,
+		"month":"December",
+		"days": []
+	}
+]
